@@ -1,5 +1,5 @@
 # PrintMonitoring
-My course paper at University. It`s program which can monitoring information about printing for Windows OS.
+My course paper at University. Its a program which can monitoring information about printing for Windows OS.
 The program using WIndows SDK and fork with library `Winspool`.
 
 The program performs the following functions:
